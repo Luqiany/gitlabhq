@@ -1,0 +1,2 @@
+alpine
+gitlab/gitlab-ce:latest
